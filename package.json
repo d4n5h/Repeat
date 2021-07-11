@@ -1,0 +1,27 @@
+{
+  "name": "@danisl99/repeat",
+  "version": "1.0.0",
+  "description": "A better way to do intervals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d4n5h/Repeat.git"
+  },
+  "keywords": [
+    "repeat",
+    "interval",
+    "intervals",
+    "better",
+    "immediate",
+    "immediately"
+  ],
+  "author": "Daniel Shlomo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d4n5h/Repeat/issues"
+  },
+  "homepage": "https://github.com/d4n5h/Repeat#readme"
+}
